@@ -11,7 +11,7 @@ var size = require('gulp-size');
 var psi = require('psi');
 
 var path = {
-    DEV: 'starter.dev', // example: name.dev
+    DEV: '', // example: name.dev
     ASSETS: 'resources',
     DEST: 'public',
     SASS_SRC: 'resources/sass/*.sass',
